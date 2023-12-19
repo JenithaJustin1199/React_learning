@@ -1,0 +1,27 @@
+{
+  "name": "rect-basics",
+  "version": "1.0.0",
+  "description": "package for development",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenithaJustin1199/React_learning.git"
+  },
+  "author": "Jenitha J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenithaJustin1199/React_learning/issues"
+  },
+  "homepage": "https://github.com/JenithaJustin1199/React_learning#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
